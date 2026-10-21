@@ -1,3 +1,3 @@
 # firsthtmldemo
 this is my first repository
-author himanshu singh
+author himanshu singh(bca)
